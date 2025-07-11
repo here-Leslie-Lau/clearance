@@ -32,7 +32,7 @@ function fish_prompt
   echo -n -s $cwd $normal
 
   # show date and time
-  echo -n -s ' at ' $yellow (date "+%a %b %d %H:%M:%S") $normal
+  echo -n -s ' at ' $yellow (date "+%a %b %d %I:%M:%S %p") $normal
 
   # Show git branch and status
   if [ (_git_branch_name) ]
