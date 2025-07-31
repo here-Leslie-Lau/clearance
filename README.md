@@ -9,7 +9,8 @@ A [fish-shell](https://fishshell.com/) theme. Inspired by omf/clearance
 
 ## Screenshot
 
-![screenshot](https://github.com/here-Leslie-Lau/clearance/blob/master/screenshot.png)
+![screenshot](https://github.com/here-Leslie-Lau/clearance/blob/master/screenshot.jpg)
+![screenshot02](https://github.com/here-Leslie-Lau/clearance/blob/master/screenshot02.jpg)
 
 ## Usaged
 
